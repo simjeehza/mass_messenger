@@ -1,0 +1,3 @@
+PyQt6>=6.6.0
+pyobjc-framework-Contacts>=10.0; sys_platform == "darwin"
+APScheduler>=3.10.0
